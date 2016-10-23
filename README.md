@@ -29,9 +29,7 @@ func RuleProvider() Rule {
 
 ## 如何使用
 
-window用户可以直接下载**win_exe**目录下在的zip文件，解压出一个main.exe文件。
-
-其他平台用户，可以自行下载源码编译。
+编译方法：go build main.go
 
 使用步骤(以windows为例)：
 
@@ -49,9 +47,9 @@ window用户可以直接下载**win_exe**目录下在的zip文件，解压出一
 
 ## 效果
 
-![](./art/1.png)
+![](./image/girl.png)
 
-^_^ 图片就不展示了， 大家可以自己运行看。
+^_^
 
 ## 扩展
 
